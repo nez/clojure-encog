@@ -39,7 +39,7 @@ Ok, most the networks are already functional so let's go ahead and make one. Let
                   (make-activationF :sigmoid) 
                   (make-pattern     :feed-forward)))
                   
-;;this is actually the neural pattern i used for my final year project at uni!                  
+;;this is actually the neural pattern I used for my final year project at uni!                  
 ```
 ...and voila! we get back the complete network initialised with random weights.
 
